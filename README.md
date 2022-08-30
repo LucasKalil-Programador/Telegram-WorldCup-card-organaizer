@@ -20,4 +20,4 @@ Por fim o cliente ira poder gerar uma string com todos os cromos faltantes ou ge
 o usuário poderá digitalizar a página do álbum e o software ira verificar de forma autônoma os cromas faltantes 
 obs. Não sei se sera possível implementar essa ultima funcionalidade mais de qualquer forma seria uma funcionalidade interessante
 
-<h2>Ultima atualização 30/08/2022</h1>
+<h3>Ultima atualização 30/08/2022</h3>
