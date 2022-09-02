@@ -17,7 +17,14 @@ Em um segundo momento o usuário tera como selecionar quais figurinhas ele possu
 
 Por fim o cliente ira poder gerar uma string com todos os cromos faltantes ou gerar um .png com os mesmos dados
 
-o usuário poderá digitalizar a página do álbum e o software ira verificar de forma autônoma os cromas faltantes 
+O usuário poderá digitalizar a página do álbum e o software ira verificar de forma autônoma os cromas faltantes 
 obs. Não sei se sera possível implementar essa ultima funcionalidade mais de qualquer forma seria uma funcionalidade interessante
 
-<h3>Ultima atualização 30/08/2022</h3>
+<h1>Diagrama de interação com o usuário</h1>
+Esse diagrama serve para representar como sera a interação com o usuário de forma abstrata 
+
+<div align="center">
+<br><br>
+<img src="https://user-images.githubusercontent.com/82661706/188033684-af6653ad-830f-47d0-b88a-84648a6a46a5.png" width=500px/>
+</div>
+<h3>Ultima atualização 1/09/2022</h3>
